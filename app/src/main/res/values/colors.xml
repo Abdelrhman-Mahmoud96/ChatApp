@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6915cf</color>
+    <color name="colorPrimaryDark">#512c96</color>
+    <color name="colorAccent">#dd6892</color>
+    <color name="colorIndivateTab">#3c6f9c</color>
+    <color name="grey_200">#f9c6ba</color>
+    <color name="background_black">#323232</color>
+
+
+</resources>
