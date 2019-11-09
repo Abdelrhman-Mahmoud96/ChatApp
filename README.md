@@ -2,7 +2,7 @@
  Group chat app using:
  
 - Firebase Database and Database UI
-- Firebase Stoarge
+- Firebase Storage
 - Firebase Auth. UI
 
 
